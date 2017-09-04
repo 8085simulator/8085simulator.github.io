@@ -9,6 +9,9 @@ Simply double clicking the program, it should run.
 But if it opens like a zip file, then you can be rest assured , that you do not have java installed on your machine.
 Then download it from the link given below. 
 
+System Requirements:
+
+Need Java 6 Update 16 http://javadl.sun.com/webapps/download/AutoDL?BundleId=33889
 
 
 Download the following files as needed

@@ -1,7 +1,7 @@
 # 8085 Simulator
-8085 Simulator 
+By JUBIN MITRA
 
-*This is migrated project from 8085 Simulator from codeplex (http://8085simulator.codeplex.com/) to github.*
+*The project is migrated from codeplex (http://8085simulator.codeplex.com/) to github.*
 
 Screenshot:
 -----------

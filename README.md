@@ -3,6 +3,12 @@
 
 *This is migrated project from 8085 Simulator from codeplex (http://8085simulator.codeplex.com/) to github.*
 
+Screenshot:
+-----------
+
+![](https://github.com/8085simulator/8085simulator.github.io/blob/master/top_page1.png?raw=true)
+
+
 How to run the Program ?
 ------------------------
 Simply double clicking the program, it should run. 
@@ -25,10 +31,6 @@ Previous Versions :
 * [8085Compiler_v1.jar](https://github.com/8085simulator/8085simulator/raw/master/8085Compiler_v1.jar)  ----> 8085 Simulator Version 1 (old Version)
 * [8085Compiler_v0.jar](https://github.com/8085simulator/8085simulator/raw/master/8085Compiler_v0.jar)  ----> 8085 Simulator Version 0 (obsolete Version)
 
-Screenshot:
------------
-
-![](https://github.com/8085simulator/8085simulator.github.io/blob/master/top_page1.png?raw=true)
 
 Features:
 ---------

@@ -28,7 +28,7 @@ Previous Versions :
 Screenshot:
 -----------
 
-![](https://github.com/8085simulator/8085simulator/raw/master/top_page1.png?raw=true)
+![](https://github.com/8085simulator/8085simulator.github.io/blob/master/top_page1.png?raw=true)
 
 Features:
 ---------

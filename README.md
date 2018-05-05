@@ -1,7 +1,15 @@
 # 8085 Simulator
+*Programming made easy*
+
 By JUBIN MITRA
 
+
+## With the academic learning purpose in mind the 8085 simulator software is designed. It helps in get started easily with example codes, and to learn the architecture playfully. It also provides a trainer kit as an appealing functional alternative to real hardware. The users can write assembly code easily and get results quickly without even having the actual hardware. 
+
+## The software is shared under opensource GNU license. 
+
 *The project is migrated from codeplex (http://8085simulator.codeplex.com/) to github.*
+
 
 Screenshot:
 -----------
